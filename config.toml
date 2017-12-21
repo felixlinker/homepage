@@ -1,4 +1,21 @@
 baseURL = "https://felixlinker.github.io/"
 languageCode = "en-us"
 title = "Felix Linker"
+theme = "cocoa"
+author = "Felix Linker"
 
+[[menu.main]]
+name = "Works & Publications"
+weight = -100
+identifier = "works"
+url = "/works/"
+
+[params]
+author = "Felix Linker"
+description = "Some information about Felix Linker"
+selfintro = "Student of M.Sc. Computer Science and B.A Philosophy"
+github = "https://github.com/felixlinker"
+facebook = "https://www.facebook.com/felix.linker"
+twitter = "https://twitter.com/felixlinker"
+include_rss = false
+avatar = "img/avatar.jpg"
