@@ -1,4 +1,4 @@
-baseURL = "https://felixlinker.github.io/"
+baseURL = "http://felixlinker.de/"
 languageCode = "en-us"
 title = "Felix Linker"
 theme = "cocoa"
