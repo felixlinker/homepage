@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Felix Linker"
 theme = "cocoa"
 author = "Felix Linker"
+defaultContentLanguage = "en"
 
 [[menu.main]]
 name = "Works & Publications"
@@ -11,6 +12,7 @@ identifier = "works"
 url = "/works/"
 
 [params]
+i18n_flags = true
 author = "Felix Linker"
 description = "Some information about Felix Linker"
 selfintro = "Student of M.Sc. Computer Science and B.A Philosophy"
@@ -19,3 +21,16 @@ facebook = "https://www.facebook.com/felix.linker"
 twitter = "https://twitter.com/felixlinker"
 include_rss = false
 avatar = "img/avatar.jpg"
+
+[languages]
+
+[languages.en]
+
+[languages.de]
+description = "Ein paar Informationen über Felix Linker"
+selfintro = "Student im M.Sc. Informatik und B.A. Philosophie"
+
+[[languages.de.menu.main]]
+name = "Arbeiten & Veröffentlichungen"
+identifier = "works"
+url = "/de/works/"
