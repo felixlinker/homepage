@@ -14,6 +14,16 @@ In meiner Arbeit zeige ich, dass es keinen Contraction-Operator für Dung-Logike
 
 [*Download*](/doc/agm_contraction_ba.pdf)
 
+## Facebook Network Analysis of News Pages
+
+### Beschreibung
+
+Im Wintersemester 2016/17 war ich Leiter des Projekts "Facebook Network Analysis of News Pages" im Rahmen des Moduls *Introduction to Digital Humanities*.
+Unser Ziel war es, die Behauptung zu untersuchen, dass die meisten Leute facebook durch ihre filter-bubble bzw. echo-chamber erleben.
+Indem wir frei zugängliche Daten der facebook Graph API in der Graph Datenbanken [ArangoDB](https://www.arangodb.com/) anonym und temporär speicherten, fanden wir heraus, dass es tatsächlich solche filter-bubbles gab, die im Falle Deutschlands innerhalb des klassischen, politischen Spektrums verortet werden können.
+
+[*Download*](/doc/pt_pr.pdf)
+
 ## TWIG
 
 ### Beschreibung
