@@ -8,9 +8,9 @@ My name is Felix Linker, I was born in Flensburg, Germany, and am currently stud
 
 ### Educational path
 
-In 2014 I finished my A level with an average grade of 1,0 at the *Altes Gymnasium Flensburg*.
+In 2014 I finished my A level with an average grade of 1.0 at the *Altes Gymnasium Flensburg*.
 Then I started to study B.Sc. Computer Science and B.A. Philosophy at the University of Leipzig, Germany.
-In 2017 I finished my B.Sc. Computer Science with an average grade of 1,2 after which I contiuned studying M.Sc. Computer Science.
+In 2017 I finished my B.Sc. Computer Science with an average grade of 1.2 after which I contiuned studying M.Sc. Computer Science.
 
 ### Experiences
 
