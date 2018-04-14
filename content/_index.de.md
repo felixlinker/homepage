@@ -15,5 +15,5 @@ Danach begann ich mein Studium B.Sc. Informatik und B.A. Philosophie an der Univ
 ### Erfahrungen
 
 2016 arbeitete ich ein halbes Jahr für die Forschungsgruppe [AKSW](http://aksw.org).
-Dort beschäftigte ich mich mit den Konzepten [RDF](https://wikipedia.org/wiki/Resource_Description_Framework) und [OWL](https://wikipedia.org/wiki/Web_Ontology_Language).
-Im Anschluss daran fing ich an, für [cookionista](http://cookionista.com) [BPMN](https://wikipedia.org/wiki/Business_Process_Model_and_Notation) auf [Wordpress](https://wikipedia.org/wiki/WordPress) anzuwenden.
+Dort beschäftigte ich mich mit den Konzepten [RDF](https://de.wikipedia.org/wiki/Resource_Description_Framework) und [OWL](https://de.wikipedia.org/wiki/Web_Ontology_Language).
+Im Anschluss daran fing ich an, für [cookionista](http://cookionista.com) [BPMN](https://de.wikipedia.org/wiki/Business_Process_Model_and_Notation) auf [Wordpress](https://de.wikipedia.org/wiki/WordPress) anzuwenden.

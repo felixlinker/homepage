@@ -15,5 +15,5 @@ In 2017 I finished my B.Sc. Computer Science with an average grade of 1,2 after 
 ### Experiences
 
 In 2016 I worked half a year for the research group [AKSW](http://aksw.org).
-There, I got into the concepts of [RDF](https://wikipedia.org/wiki/Resource_Description_Framework) and [OWL](https://wikipedia.org/wiki/Web_Ontology_Language).
-After that I started working for [cookionista](http://cookionista.com) where I'm currently applying [BPMN](https://wikipedia.org/wiki/Business_Process_Model_and_Notation) to [Wordpress](https://wikipedia.org/wiki/WordPress).
+There, I got into the concepts of [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework) and [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language).
+After that I started working for [cookionista](http://cookionista.com) where I'm currently applying [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) to [Wordpress](https://en.wikipedia.org/wiki/WordPress).
