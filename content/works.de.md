@@ -4,6 +4,18 @@ date: 2017-12-22T00:09:06+01:00
 draft: false
 ---
 
+## Industrial Benchmark for Fuzzy Particle Swarm Reinforcement Learning
+
+### Beschreibung
+
+In diesem Projekt habe ich den Ansatz aus *Hein et al., 2017* namens *Fuzzy Particle Swarm Reinforcement Learning* (FPSRL) zur Optimiung von Controller Strategien umgesetzt, implementiert und gebenchmarked.
+Die Benchmark wurde durch die *Industrial Benchmark* (IB) realisiert, der Methode folgend, die die Autoren selbst in *Hein, Udluft, Runkler, 2018* zum Benchmarken eines ähnlichen Ansatzes, der Genetische Programmierung anstelle von Partikelschwarm Optimierung verwendet, vorschlugen.
+Der Code wurde in python geschrieben.
+
+[*Link zum github repository (mit Quellen)*](https://github.com/felixlinker/IB_FPSRL)
+
+[*Zusammenfassung der Resultate*](/doc/ib_fpsrl.pdf)
+
 ## AGM-Style Contraction in Dung-Logics for Argumentation Frameworks
 
 ### Beschreibung
