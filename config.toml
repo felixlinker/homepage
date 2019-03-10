@@ -1,15 +1,19 @@
 baseURL = "http://felixlinker.de/"
 languageCode = "en-us"
 title = "Felix Linker"
-theme = "cocoa"
+theme = "hyperspace"
 author = "Felix Linker"
 defaultContentLanguage = "en"
 
 [[menu.main]]
-    name = "Works & Publications"
-    weight = -100
+    name = "Experiences"
+    weight = 1
+    identifier = "cv"
+
+[[menu.main]]
+    name = "Works & Projects"
+    weight = 2
     identifier = "works"
-    url = "/works/"
 
 [params]
     author = "Felix Linker"
@@ -18,5 +22,4 @@ defaultContentLanguage = "en"
     github = "https://github.com/felixlinker"
     facebook = "https://www.facebook.com/felix.linker"
     twitter = "https://twitter.com/felixlinker"
-    include_rss = false
     avatar = "img/avatar.jpg"
