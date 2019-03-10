@@ -1,0 +1,24 @@
+{{ $style := .style }}
+{{ with .index }}
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.scrollex.min.js"></script>
+    <script src="/js/jquery.scrolly.min.js"></script>
+    <script src="/js/browser.min.js"></script>
+    <script src="/js/breakpoints.min.js"></script>
+    <script src="/js/util.js"></script>
+    <script src="/js/main.js"></script>
+
+    </body>
+
+    <footer id="footer" class="wrapper {{ $style }}">
+        <div class="inner">
+            <ul class="menu">
+                <li>&copy; Felix Linker. All rights reserved.</li>
+                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>Generator: <a href="https://gohugo.io/">Hugo</a></li>
+            </ul>
+        </div>
+    </footer>
+
+    </html>
+{{ end }}

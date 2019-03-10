@@ -1,0 +1,6 @@
+{{ $style := .style }}
+{{ with .index }}
+    <section id="{{ .Section }}" class="wrapper spotlights {{ $style }}">
+        {{ partial "spotlights/pages.html" . }}
+    </section>
+{{ end }}

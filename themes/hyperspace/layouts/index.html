@@ -1,0 +1,25 @@
+{{ partial "head.html" . }}
+{{ partial "sidebar.html" . }}
+
+<div id="wrapper">
+    <section id="intro" class="wrapper style1 fullscreen fade-up">
+        {{ if .Content }}
+            <div class="inner">
+                {{ .Content }}
+            </div>
+        {{ end }}
+    </section>
+
+    <!-- Show all sections that have a layout attached to them -->
+    {{ $styleId := 0 }}
+    {{ range (sort .Site.Menus.main "Weight" "asc") }}
+        {{ $styleId = mod (add $styleId 1) 3 }}
+        {{ with ($.Site.GetPage "section" .Identifier) }}
+            {{ if isset .Params "layout" }}
+                {{ $partial := print .Params.layout "/layout.html" }}
+                {{ partial $partial (dict "index" . "style" (print "style" (add $styleId 1))) }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+{{ partial "footer/std.html" . }}

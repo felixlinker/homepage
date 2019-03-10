@@ -1,0 +1,41 @@
+{{ $headingKey := "" }}
+{{ if isset .Params "heading_at" }}
+    {{ $headingKey = .Params.heading_at }}
+{{ end }}
+{{ $subheadingKey := "" }}
+{{ if isset .Params "subheading_at" }}
+    {{ $subheadingKey = .Params.subheading_at }}
+{{ end }}
+<!-- get all pages from this section that are not the index page -->
+{{ $pages := where (where .Site.Pages "Section" .Section) "Kind" "page" }}
+{{ if isset .Params "sort_by" }}
+    {{ $pages = sort $pages .Params.sort_by "asc" }}
+{{ end }}
+{{ range $pages }}
+    <section>
+        <div class="content" style="width: 15em;">
+            <div class="inner">
+                <center>
+                    {{ if isset .Params $headingKey }}
+                        <h3>{{ index .Params $headingKey }}</h3>
+                    {{ end }}
+                    {{ if isset .Params $subheadingKey }}
+                        <p><em>{{ index .Params $subheadingKey }}</em></p>
+                    {{ end }}
+                </center>
+            </div>
+        </div>
+        <div class="content">
+            <!-- <div class="row"> -->
+                <!-- <div class="col-3 col-12-medium"> -->
+                <!-- </div> -->
+                <!-- <div class="col-9 col-12-medium"> -->
+                    <div class="inner">
+                        {{ .Summary }}
+                        {{ partial "more.html" . }}
+                    </div>
+                <!-- </div> -->
+            <!-- </div> -->
+        </div>
+    </section>
+{{ end }}
