@@ -6,31 +6,29 @@ author = "Felix Linker"
 defaultContentLanguage = "en"
 
 [[menu.main]]
-name = "Works & Publications"
-weight = -100
-identifier = "works"
-url = "/works/"
+    name = "Works & Publications"
+    weight = -100
+    identifier = "works"
+    url = "/works/"
 
 [params]
-i18n_flags = true
-author = "Felix Linker"
-description = "Some information about Felix Linker"
-selfintro = "Student of M.Sc. Computer Science and B.A Philosophy"
-github = "https://github.com/felixlinker"
-facebook = "https://www.facebook.com/felix.linker"
-twitter = "https://twitter.com/felixlinker"
-include_rss = false
-avatar = "img/avatar.jpg"
+    i18n_flags = true
+    author = "Felix Linker"
+    description = "Some information about Felix Linker"
+    selfintro = "Student of M.Sc. Computer Science and B.A Philosophy"
+    github = "https://github.com/felixlinker"
+    facebook = "https://www.facebook.com/felix.linker"
+    twitter = "https://twitter.com/felixlinker"
+    include_rss = false
+    avatar = "img/avatar.jpg"
 
 [languages]
+    [languages.en]
+    [languages.de]
+        description = "Ein paar Informationen über Felix Linker"
+        selfintro = "Student im M.Sc. Informatik und B.A. Philosophie"
 
-[languages.en]
-
-[languages.de]
-description = "Ein paar Informationen über Felix Linker"
-selfintro = "Student im M.Sc. Informatik und B.A. Philosophie"
-
-[[languages.de.menu.main]]
-name = "Arbeiten & Veröffentlichungen"
-identifier = "works"
-url = "/de/works/"
+        [[languages.de.menu.main]]
+            name = "Arbeiten & Veröffentlichungen"
+            identifier = "works"
+            url = "/de/works/"
