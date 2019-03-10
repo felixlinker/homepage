@@ -12,7 +12,6 @@ defaultContentLanguage = "en"
     url = "/works/"
 
 [params]
-    i18n_flags = true
     author = "Felix Linker"
     description = "Some information about Felix Linker"
     selfintro = "Student of M.Sc. Computer Science and B.A Philosophy"
@@ -21,14 +20,3 @@ defaultContentLanguage = "en"
     twitter = "https://twitter.com/felixlinker"
     include_rss = false
     avatar = "img/avatar.jpg"
-
-[languages]
-    [languages.en]
-    [languages.de]
-        description = "Ein paar Informationen über Felix Linker"
-        selfintro = "Student im M.Sc. Informatik und B.A. Philosophie"
-
-        [[languages.de.menu.main]]
-            name = "Arbeiten & Veröffentlichungen"
-            identifier = "works"
-            url = "/de/works/"
