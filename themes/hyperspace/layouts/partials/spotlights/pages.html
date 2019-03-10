@@ -26,17 +26,11 @@
             </div>
         </div>
         <div class="content">
-            <!-- <div class="row"> -->
-                <!-- <div class="col-3 col-12-medium"> -->
-                <!-- </div> -->
-                <!-- <div class="col-9 col-12-medium"> -->
-                    <div class="inner">
-                        <h2>{{ .Title }}</h2>
-                        <p>{{ .Summary }}</p>
-                        {{ partial "more.html" . }}
-                    </div>
-                <!-- </div> -->
-            <!-- </div> -->
+            <div class="inner">
+                <h2>{{ .Title }}</h2>
+                <p>{{ .Summary }}</p>
+                {{ partial "more.html" . }}
+            </div>
         </div>
     </section>
 {{ end }}
