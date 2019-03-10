@@ -10,7 +10,8 @@
                 <span class="icon major {{ .Params.icon }}"></span>
             {{ end }}
             <div class="content">
-                {{ .Summary }}
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Summary }}</p>
                 {{ partial "more.html" . }}
             </div>
         </section>
