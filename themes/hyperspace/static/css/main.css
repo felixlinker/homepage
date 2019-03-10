@@ -3052,11 +3052,11 @@ input, select, textarea {
                 opacity: 1;
             }
 
-        .spotlights > section:nth-child(2) {
+        .spotlights > section:nth-child(3n+2) {
             background-color: rgba(0, 0, 0, 0.05);
         }
 
-        .spotlights > section:nth-child(3) {
+        .spotlights > section:nth-child(3n+3) {
             background-color: rgba(0, 0, 0, 0.1);
         }
 
