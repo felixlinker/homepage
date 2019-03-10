@@ -4,6 +4,8 @@ date: 2017-12-17T16:14:04+01:00
 draft: false
 ---
 
+{{% social-icons %}}
+
 My name is Felix Linker, I was born in Flensburg, Germany, and am currently studying Computer Science at the University of Leipzig, Germany.
 
 In that, my focus lies on applying theoretical computer science to real-world problems.
