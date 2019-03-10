@@ -1,6 +1,15 @@
 {{ $style := .style }}
 {{ with .index }}
     <section id="{{ .Section }}" class="wrapper spotlights {{ $style }}">
+        <section class="title">
+            <div class="content">
+                <div class="inner">
+                    <h2>{{ .Title }}</h2>
+                    <p>{{ .Summary }}</p>
+                    {{ partial "more.html" . }}
+                </div>
+            </div>
+        </section>
         {{ partial "spotlights/pages.html" . }}
     </section>
 {{ end }}
