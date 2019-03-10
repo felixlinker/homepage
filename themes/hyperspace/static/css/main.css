@@ -2988,6 +2988,10 @@ input, select, textarea {
         min-height: 17.5em;
     }
 
+    .spotlights > .title {
+        min-height: 10em;
+    }
+
         body.is-ie .spotlights > section {
             min-height: 0;
         }
