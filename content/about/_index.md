@@ -41,6 +41,14 @@ In that, my focus lies on applying theoretical computer science to real-world pr
     In 2016 I worked half a year for the research group AKSW.
     There, I got into the concepts of RDF and OWL.
 
+## Publications
+
+* JELIA 2019
+
+    **AGM Meets Abstract Argumentation: Contraction for Dung Frameworks**
+
+    [*Research gate*](https://www.researchgate.net/publication/332211310_AGM_Meets_Abstract_Argumentation_Contraction_for_Dung_Frameworks), [*more details*](/works/jelia)
+
 ## Educational Experience
 
 * 2017 *(ongoing)*, *Leipzig University*
