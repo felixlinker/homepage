@@ -66,3 +66,7 @@ In that, my focus lies on applying theoretical computer science to real-world pr
 * 2001-2014, *Altes Gymnasium Flensburg*
 
     A Level, 1.0
+
+## Awards
+
+* 2018-2020, Scholarship by the *Deutschlandstipendium*
