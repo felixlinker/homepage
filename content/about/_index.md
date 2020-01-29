@@ -4,7 +4,7 @@ date: 2017-12-17T16:14:04+01:00
 draft: false
 ---
 
-{{< image src="/img/avatar.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width: 200px;" >}}
+{{< image src="/img/avatar.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width: 400px;" >}}
 
 My name is Felix Linker, I was born in Flensburg, Germany, and am currently studying Computer Science at the University of Leipzig, Germany.
 In that, my focus lies on applying theoretical computer science to real-world problems.
