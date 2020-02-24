@@ -7,7 +7,9 @@ draft: false
 {{< image src="/img/avatar.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width: 400px;" >}}
 
 My name is Felix Linker, I was born in Flensburg, Germany, and am currently studying Computer Science at the University of Leipzig, Germany.
-In that, my focus lies on applying theoretical computer science to real-world problems.
+I am passionate about formal verification and how to make it more accessible for everyone - developers and companies.
+My enthusiasm for formal methods arose during an Internship at Arm Ltd.
+I continued this work in my master thesis on model checking and instruction set architectures.
 
 ## Professional Experience
 
