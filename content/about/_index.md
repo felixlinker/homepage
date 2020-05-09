@@ -13,9 +13,9 @@ I continued this work in my master thesis on model checking and instruction set 
 
 ## Professional Experience
 
-* 2019 *(ongoing)*, *Chair for Intelligent Systems, Leipzig University*
+* 2019-2020, *Chair for Intelligent Systems, Leipzig University*
 
-    **Research Assistant**
+    **Research Assistant/Scientific Staff**
 
 * 2018, *[Arm Ltd](https://www.arm.com/), Cambridge, UK*
 
@@ -53,9 +53,9 @@ I continued this work in my master thesis on model checking and instruction set 
 
 ## Educational Experience
 
-* 2017 *(ongoing)*, *Leipzig University*
+* 2017-2020, *Leipzig University*
 
-    M.Sc. Computer Science
+    M.Sc. Computer Science, 1.0
 
 * 2014-2019, *Leipzig University*
 
