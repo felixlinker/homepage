@@ -1,6 +1,6 @@
 baseURL = "http://felixlinker.de/"
 languageCode = "en-us"
-title = "Felix Linker"
+title = "Felix E. Linker"
 theme = "hello-friend"
 defaultContentLanguage = "en"
 
@@ -8,10 +8,10 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 [author]
-    name = "Felix Linker"
+    name = "Felix E. Linker"
 
 [params]
-    description = "Some information about Felix Linker"
+    description = "Some information about Felix E. Linker"
     homeSubtitle = "I will soon start a PhD and have a M.Sc. Computer Science with a B.A. Philosophy"
 
     contentTypeName = "works"
