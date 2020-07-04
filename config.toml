@@ -33,10 +33,6 @@ PygmentsStyle = "monokai"
     name = "twitter"
     url  = "https://twitter.com/felixlinker"
 
-[[params.social]]
-    name = "facebook"
-    url  = "https://www.facebook.com/felix.linker"
-
 [menu]
   [[menu.main]]
     identifier = "about"
