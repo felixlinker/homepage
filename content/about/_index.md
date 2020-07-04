@@ -6,16 +6,20 @@ draft: false
 
 {{< image src="/img/avatar.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width: 400px;" >}}
 
-My name is Felix Linker, I was born in Flensburg, Germany, and am currently studying Computer Science at the University of Leipzig, Germany.
-I am passionate about formal verification and how to make it more accessible for everyone - developers and companies.
-My enthusiasm for formal methods arose during an Internship at Arm Ltd.
-I continued this work in my master thesis on model checking and instruction set architectures.
+My name is Felix E. Linker, I was born in Germany, and am a PhD student and Scientific Assistant in [David Basin's Information Security group](https://infsec.ethz.ch/) at ETH Zurich.
+I am passionate about formal verification and how to to apply it to real world problems.
 
 ## Professional Experience
+
+* 2020-, *Department of Computer Science, ETH Zurich*
+
+    **PhD Student and Scientific Assistant**
 
 * 2019-2020, *Chair for Intelligent Systems, Leipzig University*
 
     **Research Assistant/Scientific Staff**
+
+    Working on publications in the field of non-monotonic reasoning and knowledge representation.
 
 * 2018, *[Arm Ltd](https://www.arm.com/), Cambridge, UK*
 
@@ -28,6 +32,8 @@ I continued this work in my master thesis on model checking and instruction set 
     You can find an overview over that project in the paper
     [_"Who guards the guards? Formal Validation of the ARM v8-M Architecture Specification"_](https://alastairreid.github.io/papers/OOPSLA_17/)
     by my supervisor Alastair Reid.
+
+    I continued to work on this topic in my [master thesis](/works/msc_riscv/).
 
 * 2016-2018, *[cookionista](https://cookionista.com/), Nuremberg*
 

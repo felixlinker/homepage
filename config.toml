@@ -12,7 +12,7 @@ PygmentsStyle = "monokai"
 
 [params]
     description = "Some information about Felix E. Linker"
-    homeSubtitle = "I will soon start a PhD and have a M.Sc. Computer Science with a B.A. Philosophy"
+    homeSubtitle = "I am a PhD student and Scientific Assistant in the Information Security group at ETH Zurich"
 
     contentTypeName = "works"
 
