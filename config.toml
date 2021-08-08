@@ -1,7 +1,7 @@
 baseURL = "http://felixlinker.de/"
 languageCode = "en-us"
 title = "Felix E. Linker"
-theme = "hello-friend"
+theme = "researcher"
 defaultContentLanguage = "en"
 
 PygmentsCodeFences = true
@@ -11,33 +11,22 @@ PygmentsStyle = "monokai"
     name = "Felix E. Linker"
 
 [params]
-    description = "Some information about Felix E. Linker"
-    homeSubtitle = "I am a PhD student and Scientific Assistant in the Information Security group at ETH Zurich"
-
-    contentTypeName = "works"
-
-[params.logo]
-    logoText     = "$ cd /home/"
-    logoHomeLink = "/"
-
-# Social icons
-[[params.social]]
-    name = "github"
-    url  = "https://github.com/felixlinker"
-
-[[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/felixlinker/"
-
-[[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/felixlinker"
+    author = "Felix E. Linker"
+    description = "Felix Linker is a PhD student and Scientific Assistant in the Information Security group at ETH Zurich"
+    [[params.socialIcons]]
+        icon = "fab fa-github"
+        title = "GitHub"
+        url  = "https://github.com/felixlinker"
+    [[params.socialIcons]]
+        icon = "fab fa-linkedin"
+        title = "LinkedIn"
+        url  = "https://www.linkedin.com/in/felixlinker/"
+    [[params.socialIcons]]
+        icon = "fab fa-twitter"
+        title = "Twitter"
+        url  = "https://twitter.com/felixlinker"
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
   [[menu.main]]
     identifier = "works"
     name       = "Projects"

@@ -4,7 +4,8 @@ date: 2017-12-17T16:14:04+01:00
 draft: false
 ---
 
-{{< image src="/img/avatar.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width: 400px;" >}}
+<!-- position="center" style="border-radius: 8px; width: 400px;" -->
+{{< figure class="avatar" src="/img/avatar.jpg" alt="avatar" >}}
 
 My name is Felix E. Linker, I was born in Germany, and am a PhD student and Scientific Assistant in [David Basin's Information Security group](https://infsec.ethz.ch/) at ETH Zurich.
 I am passionate about formal verification and how to to apply it to real world problems.
