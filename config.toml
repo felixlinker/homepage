@@ -30,4 +30,4 @@ PygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "works"
     name       = "Projects"
-    url        = "works/"
+    url        = "/works"
