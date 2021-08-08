@@ -4,78 +4,40 @@ date: 2017-12-17T16:14:04+01:00
 draft: false
 ---
 
-<!-- position="center" style="border-radius: 8px; width: 400px;" -->
 {{< figure class="avatar" src="/img/avatar.jpg" alt="avatar" >}}
 
-My name is Felix E. Linker, I was born in Germany, and am a PhD student and Scientific Assistant in [David Basin's Information Security group](https://infsec.ethz.ch/) at ETH Zurich.
-I am passionate about formal verification and how to to apply it to real world problems.
+I am Felix E. Linker, a PhD student in the [Information Security group](https://infsec.ethz.ch/) at ETH Zurich.
+
+## Research Interests
+
+I focus on protocol analysis and design using formal methods.
+As part of the [Centre for Cyber Trust](https://infsec.ethz.ch/research/projects/cyber_trust.html), I strive to bring stronger security guarantees to people in their everyday life.
+To assure that those are *guarantees*, I back my claims by formal methods and improve the tools whenever I hit a limit.
+
+Recently, I have been working on a digital emblem for humanitarian services in collaboration with the *International Committee of the Red Cross (ICRC)*.
+I worked on authentically marking such services so that they do not become accidental targets in times of war.
+As part of this work, I came across the problem of verifying recursively defined models in the protocol verification tool [tamarin](https://tamarin-prover.github.io/), which I am working to improve right now.
 
 ## Professional Experience
 
-* 2020-, *Department of Computer Science, ETH Zurich*
+When      | Where | What
+----------|-------|-----
+2020-     | [Information Security Group](https://infsec.ethz.ch/), ETH Zurich | Scientific Assistant
+2019-2020 | Chair for Intelligent Systems, Leipzig University | Research Assistant/Scientific Staff
+2018      | Security Research [Arm Ltd](https://www.arm.com/), Cambridge, UK | Intern
+2016-2018 | [cookionista](https://cookionista.com/), Nuremberg | Programmer
+2016      | [AKSW](http://aksw.org), Leipzig University | Student Assistant Programmer
 
-    **PhD Student and Scientific Assistant**
+## Education
 
-* 2019-2020, *Chair for Intelligent Systems, Leipzig University*
-
-    **Research Assistant/Scientific Staff**
-
-    Working on publications in the field of non-monotonic reasoning and knowledge representation.
-
-* 2018, *[Arm Ltd](https://www.arm.com/), Cambridge, UK*
-
-    **Intern**
-
-    At Arm I worked as an intern in the security group of the research
-    department in Cambridge.
-    I helped to start a project to formally verify the specification of the
-    microcontroller of the Arm architecture.
-    You can find an overview over that project in the paper
-    [_"Who guards the guards? Formal Validation of the ARM v8-M Architecture Specification"_](https://alastairreid.github.io/papers/OOPSLA_17/)
-    by my supervisor Alastair Reid.
-
-    I continued to work on this topic in my [master thesis](/works/msc_riscv/).
-
-* 2016-2018, *[cookionista](https://cookionista.com/), Nuremberg*
-
-    **Programmer**
-
-    At cookionista I applied BPMN to Wordpress by building a Wordpress plugin to
-    edit, store and execute BPMN models assisted by a CMS.
-
-* 2016, *[AKSW](http://aksw.org), Leipzig University*
-
-    **Student Assistant Programmer**
-
-    In 2016 I worked half a year for the research group AKSW.
-    There, I got into the concepts of RDF and OWL.
+When      | Where | What
+----------|-------|-----
+2020-     | ETH Zurich | PhD Student
+2017-2020 | Leipzig University | M.Sc. Computer Science
+2014-2019 | Leipzig University | B.A. Philosophy
+2014-2017 | Leipzig University | B.Sc. Computer Science
+2001-2014 | Altes Gymnasium Flensburg | A Level
 
 ## Publications
 
-* JELIA 2019
-
-    **AGM Meets Abstract Argumentation: Contraction for Dung Frameworks**
-
-    [*Research gate*](https://www.researchgate.net/publication/332211310_AGM_Meets_Abstract_Argumentation_Contraction_for_Dung_Frameworks), [*more details*](/works/jelia)
-
-## Educational Experience
-
-* 2017-2020, *Leipzig University*
-
-    M.Sc. Computer Science, 1.0
-
-* 2014-2019, *Leipzig University*
-
-    B.A. Philosophy, 1.2
-
-* 2014-2017, *Leipzig University*
-
-    B.Sc. Computer Science, 1.2
-
-* 2001-2014, *Altes Gymnasium Flensburg*
-
-    A Level, 1.0
-
-## Awards
-
-* 2018-2020, Scholarship by the *Deutschlandstipendium*
+* Baumann R., Linker F. (2019) **AGM Meets Abstract Argumentation: Contraction for Dung Frameworks**. In: Calimeri F., Leone N., Manna M. (eds) *Logics in Artificial Intelligence*. JELIA 2019. Lecture Notes in Computer Science, vol 11468. Springer, Cham. ([pdf](https://www.researchgate.net/profile/Ringo-Baumann/publication/332211310_AGM_Meets_Abstract_Argumentation_Contraction_for_Dung_Frameworks/links/5ca658184585157bd322dbfd/AGM-Meets-Abstract-Argumentation-Contraction-for-Dung-Frameworks.pdf)|[doi](https://doi.org/10.1007/978-3-030-19570-0_3))
