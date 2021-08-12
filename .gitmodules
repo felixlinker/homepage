@@ -2,9 +2,6 @@
 	path = public
 	url = https://github.com/felixlinker/felixlinker.github.io.git
 	branch = master
-[submodule "themes/hello-friend"]
-	path = themes/hello-friend
-	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng
 [submodule "themes/researcher"]
 	path = themes/researcher
 	url = https://github.com/ojroques/hugo-researcher.git
