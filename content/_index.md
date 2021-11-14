@@ -16,7 +16,10 @@ To assure that those are *guarantees*, I back my claims by formal methods and im
 
 Recently, I have been working on a digital emblem for humanitarian services in collaboration with the *International Committee of the Red Cross (ICRC)*.
 I worked on authentically marking such services so that they do not become accidental targets in times of war.
+You can find more details about this project [here](https://blogs.icrc.org/law-and-policy/2021/09/21/legal-protection-cyber-warfare-digital-emblem/).
 As part of this work, I came across the problem of verifying recursively defined models in the protocol verification tool [tamarin](https://tamarin-prover.github.io/), which I am working to improve right now.
+
+Find more details about my research in my dissertation's research plan [here](https://github.com/felixlinker/research-plan/releases/).
 
 ## Professional Experience
 
