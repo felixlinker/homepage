@@ -5,8 +5,10 @@ draft: false
 
 # Projects
 
-In my work at ETHZ, I am part of the [Centre for Cyber Trust](https://www.wernersiemens-stiftung.ch/projekte/sicher-sicherer-internet/) where I mostly work on a digital emblem for humanitarian services in collaboration with the *International Committee of the Red Cross (ICRC)*.
-You can find more details about this project [here](https://blogs.icrc.org/law-and-policy/2021/09/21/legal-protection-cyber-warfare-digital-emblem/).
+In my work at ETHZ, I am part of the Centre for Cyber Trust[^1] where I mostly work on a digital emblem for humanitarian services in collaboration with the *International Committee of the Red Cross (ICRC)*.
+You can find more details about this project [here](/adem).
+
+[^1]: https://infsec.ethz.ch/research/projects/cyber_trust.html and https://www.wernersiemens-stiftung.ch/projekte/sicher-sicherer-internet/
 
 To find out more about my coding experience, I encourage you to look at my [GitHub repositories](https://github.com/felixlinker).
 There, you will also find a link to my [Master's thesis](https://github.com/felixlinker/ifc-rv-thesis) on information flow tracking in instruction set architectures.
