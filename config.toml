@@ -14,6 +14,10 @@ PygmentsStyle = "monokai"
   author = "Felix E. Linker"
   description = "Felix Linker is a PhD student and Scientific Assistant in the Information Security group at ETH Zurich"
   [[params.socialIcons]]
+    icon = "fas fa-university"
+    title = "ETHZ"
+    url  = "https://infsec.ethz.ch/people/detail.Mjc2MDIx.TGlzdC8zMDg4LC0xMDQxNjk2MDky.html"
+  [[params.socialIcons]]
     icon = "fab fa-github"
     title = "GitHub"
     url  = "https://github.com/felixlinker"
