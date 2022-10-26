@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Linker;Felix Emanuel
+FN;CHARSET=utf-8:Felix Emanuel Linker
+ORG;CHARSET=utf-8:ETH Zürich;Professur f. Informationssicherh.
+ROLE;CHARSET=UTF-8:
+ADR;WORK;POSTAL;CHARSET=utf-8:CNB F 109.1\n;;Universitätstrasse 6\n;Zürich;;8092;Schweiz
+LABEL;WORK;POSTAL;ENCODING=QUOTED-PRINTABLE;CHARSET=utf-8:CNB F 109.1\nUniversitätstrasse 6\n\n8092 Zürich\nSchweiz
+TEL;WORK;VOICE;CHARSET=utf-8:+41 44 632 80 93
+EMAIL;CHARSET=utf-8:flinker@inf.ethz.ch
+END:VCARD

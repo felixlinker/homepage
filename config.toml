@@ -29,6 +29,10 @@ PygmentsStyle = "monokai"
     icon = "fab fa-twitter"
     title = "Twitter"
     url  = "https://twitter.com/felixlinker"
+  [[params.socialIcons]]
+    icon = "fas fa-address-card"
+    title = "Contact"
+    url  = "/doc/Linker.vcard.vcf"
 
 [menu]
   [[menu.main]]
