@@ -30,6 +30,10 @@ PygmentsStyle = "monokai"
     title = "Twitter"
     url  = "https://twitter.com/felixlinker"
   [[params.socialIcons]]
+    icon = "fab fa-mastodon"
+    title = "Mastodon"
+    url = "https://infosec.exchange/@felixlinker"
+  [[params.socialIcons]]
     icon = "fas fa-address-card"
     title = "Contact"
     url  = "/doc/Linker.vcard.vcf"
