@@ -41,5 +41,5 @@ When      | Where | What
 
 ## Publications
 
-* Linker F., Basin D. (2023) **ADEM: An Authentic Digital EMblem**. (accepted for publication in Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security, CCS 2023) ([pdf](/doc/adem.pdf)|[doi](https://doi.org/10.1145/3576915.3616578))
+* Linker F., Basin D. (2023) **ADEM: An Authentic Digital EMblem**. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23). Association for Computing Machinery, New York, NY, USA, 2815–2829. ([pdf](/doc/adem.pdf)|[doi](https://doi.org/10.1145/3576915.3616578))
 * Baumann R., Linker F. (2019) **AGM Meets Abstract Argumentation: Contraction for Dung Frameworks**. In: Calimeri F., Leone N., Manna M. (eds) *Logics in Artificial Intelligence*. JELIA 2019. Lecture Notes in Computer Science, vol 11468. Springer, Cham. ([pdf](https://www.researchgate.net/profile/Ringo-Baumann/publication/332211310_AGM_Meets_Abstract_Argumentation_Contraction_for_Dung_Frameworks/links/5ca658184585157bd322dbfd/AGM-Meets-Abstract-Argumentation-Contraction-for-Dung-Frameworks.pdf)|[doi](https://doi.org/10.1007/978-3-030-19570-0_3))

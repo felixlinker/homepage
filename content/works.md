@@ -7,7 +7,7 @@ draft: false
 
 ## Current Research
 
-* [An Authentic Digital EMblem (ADEM)](https://emblem.felixlinker.de) in collaboration with the *International Committee of the Red Cross (ICRC)* (*accepted for publication at CCS23*)
+* [An Authentic Digital EMblem (ADEM)](https://emblem.felixlinker.de) in collaboration with the *International Committee of the Red Cross (ICRC)* (*published at CCS23*)
 * [SOAP: A Social Authentication Protocol](https://soap-wg.github.io/) (*under submission*)
 * Currently, I work on applying *cyclic proof rules* to [Tamarin](https://tamarin-prover.github.io/) such that it can handle looping protocols and recursive data structures better.
 More soon!
