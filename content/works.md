@@ -8,6 +8,7 @@ draft: false
 ## Current Research
 
 * [An Authentic Digital EMblem (ADEM)](https://emblem.felixlinker.de) in collaboration with the *International Committee of the Red Cross (ICRC)* (*published at CCS23*)
+  * ADEM was covered publicly in a news article by [ETH Zürich](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html) and I gave an interview to [Deutschlandfunk](https://www.deutschlandfunk.de/wie-sich-hilfsorganisationen-gegen-hacker-schuetzen-sollen-int-felix-linker-dlf-2eec799e-100.html) (German).
 * [SOAP: A Social Authentication Protocol](https://soap-wg.github.io/) (*under submission*)
 * Currently, I work on applying *cyclic proof rules* to [Tamarin](https://tamarin-prover.github.io/) such that it can handle looping protocols and recursive data structures better.
 More soon!
