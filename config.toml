@@ -1,6 +1,6 @@
 baseURL = "http://felixlinker.de/"
 languageCode = "en-us"
-title = "Felix E. Linker"
+title = "Felix Linker"
 theme = "researcher"
 defaultContentLanguage = "en"
 
@@ -8,11 +8,15 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 [author]
-  name = "Felix E. Linker"
+  name = "Felix Linker"
 
 [params]
-  author = "Felix E. Linker"
+  author = "Felix Linker"
   description = "Felix Linker is a PhD student and Scientific Assistant in the Information Security group at ETH Zurich"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-Mail"
+    url  = "mailto:linkerfelix@gmail.com"
   [[params.socialIcons]]
     icon = "fas fa-university"
     title = "ETHZ"
@@ -26,23 +30,15 @@ PygmentsStyle = "monokai"
     title = "LinkedIn"
     url  = "https://www.linkedin.com/in/felixlinker/"
   [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
+    icon = "fab fa-x-twitter"
+    title = "X"
     url  = "https://twitter.com/felixlinker"
   [[params.socialIcons]]
     icon = "fab fa-mastodon"
     title = "Mastodon"
     url = "https://infosec.exchange/@felixlinker"
-  [[params.socialIcons]]
-    icon = "fas fa-address-card"
-    title = "Contact"
-    url  = "/doc/Linker.vcard.vcf"
 
 [menu]
-  [[menu.main]]
-    identifier = "works"
-    name       = "Projects"
-    url        = "/works"
   [[menu.main]]
     identifier = "contact"
     name       = "Contact"
