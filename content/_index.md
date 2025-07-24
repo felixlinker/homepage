@@ -27,7 +27,7 @@ You can find more details in our [paper](https://eprint.iacr.org/2024/1395).
 ### Digital Emblems
 
 I help the [International Committee of the Red Cross (ICRC)](https://www.icrc.org/en) with the requirements engineering, development, and standardization of [ADEM](https://cyber-trust.org/projects/internet-arch/adem/), a proposal for a *Digital Emblem*.
-I represent the ICRC from a technical point of view, for example, at the IETF.
+I represent the ICRC from a technical point of view, for example, at the [IETF](https://datatracker.ietf.org/wg/diem/about/).
 
 A Digital Emblem marks digital assets, for example web servers, as protected under International Humanitarian Law - just like the physical emblems of the Red Cross, Red Crescent, and Red Crystal do in the physical world.
 This work started as a research project during my Doctoral studies and is now transitioning to adoption.
