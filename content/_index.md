@@ -52,7 +52,7 @@ Our work opens an exciting new research area where automatic induction helps sca
 
 ## Publications
 
-* Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. To appear: Conference on Computer and Communications Security (CCS). 2023. ([pre-publication](https://doi.org/10.3929/ethz-c-000783356))
+* Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. To appear: Conference on Computer and Communications Security (CCS). 2025. ([pre-publication](https://doi.org/10.3929/ethz-c-000783356))
 * Linker F. **Protocol Design and Analysis in the Symbolic Model**. Doctoral Thesis. 2025. ([pdf](/doc/phd_thesis.pdf)|[electronic version](https://doi.org/20.500.11850/784312))
 * Linker F., Sasse R., Basin D. **A Formal Analysis of Apple's iMessage PQ3 Protocol**. 34th USENIX Security Symposium, (USENIX Security). 2025. ([eprint](https://eprint.iacr.org/2024/1395)|[USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/linker)|[Apple Blog](https://security.apple.com/blog/imessage-pq3/))
 * Linker F., Basin D. **SOAP: A Social Authentication Protocol**. 33rd USENIX Security Symposium (USENIX Security). 2024. ([pdf](https://www.usenix.org/system/files/sec24summer-prepub-1083-linker.pdf)|[USENIX](https://www.usenix.org/conference/usenixsecurity24/presentation/linker))
