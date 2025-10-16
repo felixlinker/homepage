@@ -50,9 +50,13 @@ We developed and implemented a new induction scheme for the Tamarin prover in th
 This induction scheme exploits recurring patterns in Tamarin's constraint systems and allows us to prove the Signal protocol secure without using any auxiliary lemmas and almost fully automatically.
 Our work opens an exciting new research area where automatic induction helps scale security protocol verification, as we provide a fundamentally new and general induction mechanism, and we plan to further enhance Tamarin's proof automation using this work in the future.
 
+This work received a Distinguished Paper Award at CCS 2025.
+
 ## Publications
 
-* Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. To appear: Conference on Computer and Communications Security (CCS). 2025. ([pre-publication](https://doi.org/10.3929/ethz-c-000783356))
+* Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. To appear: Conference on Computer and Communications Security (CCS). 2025. ([full version](https://doi.org/10.3929/ethz-c-000783356))
+
+  Received **Distinguished Paper Award at CCS 2025** ([reference](https://www.sigsac.org/ccs/CCS2025/awards/))
 * Linker F. **Protocol Design and Analysis in the Symbolic Model**. Doctoral Thesis. 2025. ([pdf](/doc/phd_thesis.pdf)|[electronic version](https://doi.org/20.500.11850/784312))
 * Linker F., Sasse R., Basin D. **A Formal Analysis of Apple's iMessage PQ3 Protocol**. 34th USENIX Security Symposium, (USENIX Security). 2025. ([eprint](https://eprint.iacr.org/2024/1395)|[USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/linker)|[Apple Blog](https://security.apple.com/blog/imessage-pq3/))
 * Linker F., Basin D. **SOAP: A Social Authentication Protocol**. 33rd USENIX Security Symposium (USENIX Security). 2024. ([pdf](https://www.usenix.org/system/files/sec24summer-prepub-1083-linker.pdf)|[USENIX](https://www.usenix.org/conference/usenixsecurity24/presentation/linker))
