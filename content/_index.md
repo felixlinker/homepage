@@ -23,7 +23,7 @@ Next to the design and formal analysis of security critical systems, I offer Tam
 
 In 2024, Apple announced their update of the iMessage message encryption protocol to [iMessage PQ3](https://security.apple.com/blog/imessage-pq3/), adding protecting against quantum attackers to the protocol.
 Prior to release, Apple shared the protocol specification with us, and we formally proved iMessage PQ3's security against a quantum attacker using the Tamarin prover, something that was previously believed to be impossible.
-You can find more details in our [paper](https://eprint.iacr.org/2024/1395).
+More details in our [paper](https://eprint.iacr.org/2024/1395) or in my presentations at [Microsoft Research](https://youtu.be/5WPYQ9amgrE?si=vabKahbgnEZZo5cK) and [IETF UFMRG](https://youtu.be/FOiuDqhqLJY?si=TU3JHWuRhz6LxDv7&t=3346).
 
 ### Digital Emblems
 
@@ -59,6 +59,8 @@ This work received a Distinguished Paper Award at CCS 2025.
   Received **Distinguished Paper Award at CCS 2025** ([reference](https://www.sigsac.org/ccs/CCS2025/awards/))
 * Linker F. **Protocol Design and Analysis in the Symbolic Model**. Doctoral Thesis. 2025. ([pdf](/doc/phd_thesis.pdf)|[electronic version](https://doi.org/20.500.11850/784312))
 * Linker F., Sasse R., Basin D. **A Formal Analysis of Apple's iMessage PQ3 Protocol**. 34th USENIX Security Symposium, (USENIX Security). 2025. ([eprint](https://eprint.iacr.org/2024/1395)|[USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/linker)|[Apple Blog](https://security.apple.com/blog/imessage-pq3/))
+
+  Presented at [Microsoft Research](https://youtu.be/5WPYQ9amgrE?si=vabKahbgnEZZo5cK) and [IETF UFMRG](https://youtu.be/FOiuDqhqLJY?si=TU3JHWuRhz6LxDv7&t=3346)
 * Linker F., Basin D. **SOAP: A Social Authentication Protocol**. 33rd USENIX Security Symposium (USENIX Security). 2024. ([pdf](https://www.usenix.org/system/files/sec24summer-prepub-1083-linker.pdf)|[USENIX](https://www.usenix.org/conference/usenixsecurity24/presentation/linker))
 * Linker F., Basin D. **ADEM: An Authentic Digital EMblem**. Conference on Computer and Communications Security (CCS). 2023. ([pdf](/doc/adem.pdf)|[doi](https://doi.org/10.1145/3576915.3616578))
 * Baumann R., Linker F. **AGM Meets Abstract Argumentation: Contraction for Dung Frameworks**. In: *Logics in Artificial Intelligence*. JELIA 2019. ([pdf](https://www.researchgate.net/profile/Ringo-Baumann/publication/332211310_AGM_Meets_Abstract_Argumentation_Contraction_for_Dung_Frameworks/links/5ca658184585157bd322dbfd/AGM-Meets-Abstract-Argumentation-Contraction-for-Dung-Frameworks.pdf)|[doi](https://doi.org/10.1007/978-3-030-19570-0_3))
