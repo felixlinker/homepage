@@ -44,6 +44,9 @@ I help [Freedom of the Press Foundation](https://freedom.press/) with the requir
 SecureDrop is a whisteblowing platform that has been deployed at the New York Times, The Guardian, The Washington Post, and many more news outlets.
 I previously helped supervise a [Masters thesis](https://www.research-collection.ethz.ch/handle/20.500.11850/718325) on the formal analysis of SecureDrop, and we currently continue to enhance the design.
 
+We presented our work at the Usable Formal Methods Research Group Meeting of the IETF 124.
+You can watch our presentation [here](https://youtu.be/i0lVleC87G0?si=doG5Tc2JzTuwqxWE&t=2020).
+
 ### Cyclic Induction for the Tamarin Prover
 
 We developed and implemented a new induction scheme for the Tamarin prover in the paper "Looping for Good: Cyclic Proofs for Security Protocols."
