@@ -62,7 +62,7 @@ This work received a Distinguished Paper Award at CCS 2025.
   Received **Distinguished Paper Award at CCS 2025** ([reference](https://www.sigsac.org/ccs/CCS2025/awards/))
 * Linker F. **Protocol Design and Analysis in the Symbolic Model**. Doctoral Thesis. 2025. ([pdf](/doc/phd_thesis.pdf)|[electronic version](https://doi.org/20.500.11850/784312))
 
-  Received **[Silver Medal of ETH Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2025/11/outstanding-doctoral-theses-2025.html)** as an outstanding doctoral thesis
+  Received **[Medal of ETH Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2025/11/outstanding-doctoral-theses-2025.html)** as an outstanding doctoral thesis
 * Linker F., Sasse R., Basin D. **A Formal Analysis of Apple's iMessage PQ3 Protocol**. 34th USENIX Security Symposium, (USENIX Security). 2025. ([eprint](https://eprint.iacr.org/2024/1395)|[USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/linker)|[Apple Blog](https://security.apple.com/blog/imessage-pq3/))
 
   Presented at [Microsoft Research](https://youtu.be/5WPYQ9amgrE?si=vabKahbgnEZZo5cK) and [IETF UFMRG](https://youtu.be/FOiuDqhqLJY?si=TU3JHWuRhz6LxDv7&t=3346)
