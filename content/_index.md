@@ -4,7 +4,7 @@ date: 2017-12-17T16:14:04+01:00
 draft: false
 ---
 
-{{< figure class="avatar" src="/img/avatar.jpg" alt="avatar" >}}
+{{< figure class="avatar" src="/img/avatar2.jpg" alt="avatar" >}}
 
 ## About Me
 

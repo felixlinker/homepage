@@ -13,6 +13,11 @@ PygmentsStyle = "monokai"
 [params]
   author = "Felix Linker"
   description = "Felix Linker is a PhD student and Scientific Assistant in the Information Security group at ETH Zurich"
+  [params.style]
+    avatarSize = "160px"
+  [params.footer]
+    text = "Foto © WSS / Oliver Lang"
+    url = "https://www.oliverlang.ch"
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-Mail"
