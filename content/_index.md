@@ -8,7 +8,7 @@ draft: false
 
 ## About Me
 
-I am Felix Linker, a postdoc in the [Information Security group](https://infsec.ethz.ch/) at ETH Zurich, independent consultant, and one of the leading experts for the [Tamarin prover](https://tamarin-prover.com/), a state-of-the-art protocol verifier.
+I am Felix Linker, a postdoc in the [Information Security](https://infsec.ethz.ch/) and [Network Security](https://netsec.ethz.ch/) groups at ETH Zurich, independent consultant, and one of the leading experts for the [Tamarin prover](https://tamarin-prover.com/), a state-of-the-art protocol verifier.
 I obtained my Doctorate in that same research group in 2025.
 
 I develop security critical systems, and I conduct formal analyses to prove security guarantees of such systems.
