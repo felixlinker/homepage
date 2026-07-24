@@ -23,15 +23,20 @@ Next to the design and formal analysis of security critical systems, I offer Tam
 
 In 2024, Apple announced their update of the iMessage message encryption protocol to [iMessage PQ3](https://security.apple.com/blog/imessage-pq3/), adding protecting against quantum attackers to the protocol.
 Prior to release, Apple shared the protocol specification with us, and we formally proved iMessage PQ3's security against a quantum attacker using the Tamarin prover, something that was previously believed to be impossible.
-More details in our [paper](https://eprint.iacr.org/2024/1395) or in my presentations at [Microsoft Research](https://youtu.be/5WPYQ9amgrE?si=vabKahbgnEZZo5cK) and [IETF UFMRG](https://youtu.be/FOiuDqhqLJY?si=TU3JHWuRhz6LxDv7&t=3346).
+
+See the [publication and presentations](#pub-imessage) for more details.
 
 ### Digital Emblems
 
-I help the [International Committee of the Red Cross (ICRC)](https://www.icrc.org/en) with the requirements engineering, development, and standardization of [ADEM](https://cyber-trust.org/projects/internet-arch/adem/), a proposal for a *Digital Emblem*.
-I represent the ICRC from a technical point of view, for example, at the [IETF](https://datatracker.ietf.org/wg/diem/about/).
+I help the [International Committee of the Red Cross (ICRC)](https://www.icrc.org/en) with the development and standardization of a *Digital Emblem*.
+A Digital Emblem is the digital equivalent to the physical emblems recognized under International Humanitarian Law (IHL), in particular, the Red Cross, Red Crescent, and Red Crystal.
+It serves to signal that a digital asset enjoys a special status under IHL and should respected and protected.
+I advise the ICRC, for example, at the [IETF](https://datatracker.ietf.org/wg/diem/about/).
 
-A Digital Emblem marks digital assets, for example web servers, as protected under International Humanitarian Law - just like the physical emblems of the Red Cross, Red Crescent, and Red Crystal do in the physical world.
-This work started as a research project during my Doctoral studies and is now transitioning to adoption.
+Our collaboration started with the development of ADEM: An Authentic Digital Emblem (see the respective [publication](#pub-adem) and [GitHub](https://github.com/adem-wg/)).
+ADEM has since then been selected as the official prototype for a Digital Emblem by the ICRC, and was featured in the ICRC's report on [Digitalizing the Red Cross, Red Crescent and Red Crystal Emblems](https://www.icrc.org/en/document/icrc-digital-emblems-report).
+In July 2026, the ICRC launched Phase II of the Digital Emblem project, at which ADEM was also demoed.
+You can learn more about the Digital Emblem project [here](https://www.icrc.org/en/article/icrc-digital-emblem-project).
 
 ### Key Transparency
 
@@ -45,6 +50,8 @@ SecureDrop is a whisteblowing platform that has been deployed at the New York Ti
 Previously, SecureDrop relied on a secure deployment, e.g., on premises.
 The new SecureDrop protocol is an end-to-end encryption protocol that removes trust assumptions from the deployment so that it can also be deployed in the cloud, for example.
 
+See the [publication and presentations](#pub-securedrop) for more details.
+
 ### Cyclic Induction for the Tamarin Prover
 
 We developed and implemented a new induction scheme for the Tamarin prover in the paper "Looping for Good: Cyclic Proofs for Security Protocols."
@@ -52,22 +59,23 @@ This induction scheme exploits recurring patterns in Tamarin's constraint system
 Our work opens an exciting new research area where automatic induction helps scale security protocol verification, as we provide a fundamentally new and general induction mechanism, and we plan to further enhance Tamarin's proof automation using this work in the future.
 
 This work received a Distinguished Paper Award at CCS 2025.
+See the [publication](#pub-cyclic) for more details.
 
 ## Publications
 
-* Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484e))
+* {{< anchor id="pub-securedrop" >}}Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484e))
 
   Presented at [Real World Crypto 2026](https://youtu.be/E6tHeIxWSlA?si=Ld9xBAzaVPX5RHAM) and [IETF UFMRG](https://youtu.be/i0lVleC87G0?si=pYPrnEufD619MMIo&t=2034)
 * Linker F. **Rule Variant Restrictions for the Tamarin Prover**. Preprint. 2026. ([eprint](https://eprint.iacr.org/2026/230))
-* Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. Conference on Computer and Communications Security (CCS). 2025. ([full version](https://doi.org/10.3929/ethz-c-000783356)|[publisher version](https://dl.acm.org/doi/10.1145/3719027.3765131))
+* {{< anchor id="pub-cyclc" >}} Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. Conference on Computer and Communications Security (CCS). 2025. ([full version](https://doi.org/10.3929/ethz-c-000783356)|[publisher version](https://dl.acm.org/doi/10.1145/3719027.3765131))
 
   Received **Distinguished Paper Award at CCS 2025** ([reference](https://www.sigsac.org/ccs/CCS2025/awards/))
 * Linker F. **Protocol Design and Analysis in the Symbolic Model**. Doctoral Thesis. 2025. ([pdf](/doc/phd_thesis.pdf)|[electronic version](https://doi.org/20.500.11850/784312))
 
   Received **[Medal of ETH Zurich](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2025/11/outstanding-doctoral-theses-2025.html)** as an outstanding doctoral thesis
-* Linker F., Sasse R., Basin D. **A Formal Analysis of Apple's iMessage PQ3 Protocol**. 34th USENIX Security Symposium, (USENIX Security). 2025. ([eprint](https://eprint.iacr.org/2024/1395)|[USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/linker)|[Apple Blog](https://security.apple.com/blog/imessage-pq3/))
+* {{< anchor id="pub-imessage" >}} Linker F., Sasse R., Basin D. **A Formal Analysis of Apple's iMessage PQ3 Protocol**. 34th USENIX Security Symposium, (USENIX Security). 2025. ([eprint](https://eprint.iacr.org/2024/1395)|[USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/linker)|[Apple Blog](https://security.apple.com/blog/imessage-pq3/))
 
   Presented at [Microsoft Research](https://youtu.be/5WPYQ9amgrE?si=vabKahbgnEZZo5cK) and [IETF UFMRG](https://youtu.be/FOiuDqhqLJY?si=TU3JHWuRhz6LxDv7&t=3346)
 * Linker F., Basin D. **SOAP: A Social Authentication Protocol**. 33rd USENIX Security Symposium (USENIX Security). 2024. ([pdf](https://www.usenix.org/system/files/sec24summer-prepub-1083-linker.pdf)|[USENIX](https://www.usenix.org/conference/usenixsecurity24/presentation/linker))
-* Linker F., Basin D. **ADEM: An Authentic Digital EMblem**. Conference on Computer and Communications Security (CCS). 2023. ([pdf](/doc/adem.pdf)|[doi](https://doi.org/10.1145/3576915.3616578))
+* {{< anchor id="pub-adem" >}} Linker F., Basin D. **ADEM: An Authentic Digital EMblem**. Conference on Computer and Communications Security (CCS). 2023. ([pdf](/doc/adem.pdf)|[doi](https://doi.org/10.1145/3576915.3616578))
 * Baumann R., Linker F. **AGM Meets Abstract Argumentation: Contraction for Dung Frameworks**. In: *Logics in Artificial Intelligence*. JELIA 2019. ([pdf](https://www.researchgate.net/profile/Ringo-Baumann/publication/332211310_AGM_Meets_Abstract_Argumentation_Contraction_for_Dung_Frameworks/links/5ca658184585157bd322dbfd/AGM-Meets-Abstract-Argumentation-Contraction-for-Dung-Frameworks.pdf)|[doi](https://doi.org/10.1007/978-3-030-19570-0_3))
