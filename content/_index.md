@@ -40,12 +40,10 @@ We currently work on the formal analysis of the draft using the program verifier
 
 ### SecureDrop
 
-I help [Freedom of the Press Foundation](https://freedom.press/) with the requirements engineering, design, and formal analysis of an end-to-end encrypted version of the [SecureDrop protocol](https://github.com/freedomofpress/securedrop).
+I helped [Freedom of the Press Foundation](https://freedom.press/) with the requirements engineering, design, and formal analysis of an end-to-end encrypted version of the [SecureDrop protocol](https://github.com/freedomofpress/securedrop).
 SecureDrop is a whisteblowing platform that has been deployed at the New York Times, The Guardian, The Washington Post, and many more news outlets.
-I previously helped supervise a [Masters thesis](https://www.research-collection.ethz.ch/handle/20.500.11850/718325) on the formal analysis of SecureDrop, and we currently continue to enhance the design.
-
-We presented our work at the Usable Formal Methods Research Group Meeting of the IETF 124.
-You can watch our presentation [here](https://youtu.be/i0lVleC87G0?si=doG5Tc2JzTuwqxWE&t=2020).
+Previously, SecureDrop relied on a secure deployment, e.g., on premises.
+The new SecureDrop protocol is an end-to-end encryption protocol that removes trust assumptions from the deployment so that it can also be deployed in the cloud, for example.
 
 ### Cyclic Induction for the Tamarin Prover
 
@@ -57,6 +55,9 @@ This work received a Distinguished Paper Award at CCS 2025.
 
 ## Publications
 
+* Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484e))
+
+  Presented at [Real World Crypto 2026](https://youtu.be/E6tHeIxWSlA?si=Ld9xBAzaVPX5RHAM) and [IETF UFMRG](https://youtu.be/i0lVleC87G0?si=pYPrnEufD619MMIo&t=2034)
 * Linker F. **Rule Variant Restrictions for the Tamarin Prover**. Preprint. 2026. ([eprint](https://eprint.iacr.org/2026/230))
 * Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. Conference on Computer and Communications Security (CCS). 2025. ([full version](https://doi.org/10.3929/ethz-c-000783356)|[publisher version](https://dl.acm.org/doi/10.1145/3719027.3765131))
 
