@@ -4,6 +4,14 @@ date: 2017-12-17T16:14:04+01:00
 draft: false
 ---
 
+<style>
+li:has(.publication-anchor:target) {
+    background-color: rgba(220, 53, 69, 0.12);
+    border-radius: 0.2rem;
+    box-shadow: 0 0 0 0.35rem rgba(220, 53, 69, 0.12);
+}
+</style>
+
 {{< figure class="avatar" src="/img/avatar2.jpg" alt="avatar" >}}
 
 ## About Me

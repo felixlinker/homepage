@@ -7,6 +7,9 @@ defaultContentLanguage = "en"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [author]
   name = "Felix Linker"
 
