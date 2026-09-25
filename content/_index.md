@@ -74,7 +74,7 @@ See the [publication](#pub-cyclic) for more details.
 * {{< anchor id="pub-securedrop" >}}Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484))
 
   Presented at [Real World Crypto 2026](https://youtu.be/E6tHeIxWSlA?si=Ld9xBAzaVPX5RHAM) and [IETF UFMRG](https://youtu.be/i0lVleC87G0?si=pYPrnEufD619MMIo&t=2034)
-* Linker F. **Rule Variant Restrictions for the Tamarin Prover**. Preprint. 2026. ([eprint](https://eprint.iacr.org/2026/230))
+* Linker F. **Rule Variant Restrictions for the Tamarin Prover**. Logic, Software, and Security - Essays dedicated to David Basin on the occasion of his 65th birthday. 2026. ([eprint](https://eprint.iacr.org/2026/230))
 * {{< anchor id="pub-cyclic" >}} Linker F., Sprenger C., Cremers C., Basin D. **Looping for Good: Cyclic Proofs for Security Protocols**. Conference on Computer and Communications Security (CCS). 2025. ([full version](https://doi.org/10.3929/ethz-c-000783356)|[publisher version](https://dl.acm.org/doi/10.1145/3719027.3765131))
 
   Received **Distinguished Paper Award at CCS 2025** ([reference](https://www.sigsac.org/ccs/CCS2025/awards/))
