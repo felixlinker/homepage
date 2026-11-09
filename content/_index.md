@@ -79,7 +79,7 @@ See the [publication](#pub-cyclic) for more details.
 
 * {{< anchor id="pub-decdns" >}} Linker F., Huang Y., Basin D., Duan H. **Declarative DNS -- Resolving Recursive Resolution**. Preprint. 2026. ([preprint](/doc/decdns.pdf)|[GitHub](https://github.com/felixlinker/decdns))
 
-* {{< anchor id="pub-securedrop" >}}Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484))
+* {{< anchor id="pub-securedrop" >}} Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484))
 
   Presented at [Real World Crypto 2026](https://youtu.be/E6tHeIxWSlA?si=Ld9xBAzaVPX5RHAM) and [IETF UFMRG](https://youtu.be/i0lVleC87G0?si=pYPrnEufD619MMIo&t=2034)
 * Linker F. **Rule Variant Restrictions for the Tamarin Prover**. Logic, Software, and Security - Essays dedicated to David Basin on the occasion of his 65th birthday. 2026. ([eprint](https://eprint.iacr.org/2026/230))
