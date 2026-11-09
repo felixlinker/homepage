@@ -5,6 +5,10 @@ draft: false
 ---
 
 <style>
+.publication-anchor {
+    scroll-margin-block-start: 50vh;
+}
+
 li:has(.publication-anchor:target) {
     background-color: rgba(220, 53, 69, 0.12);
     border-radius: 0.2rem;
