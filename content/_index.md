@@ -27,6 +27,12 @@ Next to the design and formal analysis of security critical systems, I offer Tam
 
 ## Projects
 
+### Formal Analysis of the DNS
+
+In my postdoc, I work on the formal analysis of the DNS.
+Together with my colleagues, we developed a tool that can perform change-impact analyses of DNS zone configurations called [*DecDNS*](https://github.com/felixlinker/decdns).
+We describe DecDNS in more detail in [our preprint](#pub-decdns).
+
 ### Formal Analysis of iMessage PQ3
 
 In 2024, Apple announced their update of the iMessage message encryption protocol to [iMessage PQ3](https://security.apple.com/blog/imessage-pq3/), adding protecting against quantum attackers to the protocol.
@@ -70,6 +76,8 @@ This work received a Distinguished Paper Award at CCS 2025.
 See the [publication](#pub-cyclic) for more details.
 
 ## Publications
+
+* {{< anchor id="pub-decdns" >}} Linker F., Huang Y., Basin D., Duan H. **Declarative DNS -- Resolving Recursive Resolution**. Preprint. 2026. ([preprint](/doc/decdns.pdf)|[GitHub](https://github.com/felixlinker/decdns))
 
 * {{< anchor id="pub-securedrop" >}}Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484))
 
