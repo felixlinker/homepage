@@ -81,7 +81,7 @@ See the [publication](#pub-cyclic) for more details.
 
 ## Publications
 
-* {{< anchor id="pub-decdns" >}} Linker F., Huang Y., Basin D., Duan H. **Declarative DNS -- Resolving Recursive Resolution**. Preprint. 2026. ([preprint](/doc/decdns.pdf)|[GitHub](https://github.com/felixlinker/decdns))
+* {{< anchor id="pub-decdns" >}} Linker F., Huang Y., Basin D., Duan H. **Declarative DNS -- Resolving Recursive Resolution**. Preprint. 2026. ([preprint](https://arxiv.org/abs/2611.11689)|[GitHub](https://github.com/felixlinker/decdns))
 
 * {{< anchor id="pub-securedrop" >}} Berra G., Linker F., Maier L., Myers C., Paterson K., Shane R., Veitch S. **The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All**. Conference on Computer and Communications Security (CCS). 2026. ([full version](https://eprint.iacr.org/2026/1484))
 
